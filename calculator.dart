@@ -1,6 +1,3 @@
-// !!!THIS IS NOT A JAVA CODE. THIS IS A DART CODE FOR FLUTTER
-// This is a basic anroid calculator
-
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
